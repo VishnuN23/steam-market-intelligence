@@ -58,4 +58,4 @@ steam_market_intelligence/
 ```
 
 ## Author
-Vishnu Nandakumar
+Vishnu Nanda kumar
